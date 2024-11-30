@@ -1,4 +1,4 @@
 # Phrommin.github.io
     -Phrommin
       -Got
-      ![MYPIC](img/gotji.png)
+![mypic](img/gotji.PNG)
