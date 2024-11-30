@@ -18,4 +18,4 @@
 
 - ในชีวิตประจำวัน : อัพเดทซอฟแวร์window อัพเดทOS แกไขปัญหาการอัพเดทซอร์แวร์ที่ไม่เสถียร
 
-My life partner : [Got](https://phrommin.github.io/patch)
+My buddy : [Pun](https://punyavee0.github.io/patch)
