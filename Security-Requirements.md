@@ -1,8 +1,5 @@
 # Security Requirements
 
-
-# Phrommin Kingmahasombat
-
 # PHP 8.3.4 Release Announcement
    # Detail:
    - The PHP development team announces the immediate availability of PHP 8.3.4. This is a bug fix release
@@ -32,3 +29,4 @@
 # Myself
    - PHP 8.3.4 เป็นการอัปเดตย่อยที่เน้นการแก้ไขข้อบกพร่องในส่วนต่าง ๆ เช่น Core, Curl, DOM, Fileinfo และ FPM โดยไม่มีฟีเจอร์ใหม่ ผู้ใช้ PHP 8.3 ควรอัปเกรดเพื่อรับการแก้ไขล่าสุด
 
+# Phrommin Kingmahasombat 6530250123
