@@ -3,7 +3,7 @@
 - Location : หอพัก
 - Control Function : Remote Control Function
 - Typer Of SecurityControl : Technical Controls
-- ![pig](1123.jpg)
+- ![pig](pig/1123.jpg)
   # เหตุผลที่เป็น Technical Controls
 - การเข้ารหัสสัญญาณ (Encryption): สัญญาณวิทยุที่ส่งระหว่าง Key Fob และรถยนต์จะถูกเข้ารหัสเพื่อป้องกันการดักจับ
 - ระบบ Immobilizer: ตรวจสอบสัญญาณเฉพาะจาก Key Fob เพื่อป้องกันการสตาร์ทรถโดยไม่ได้รับอนุญาต
