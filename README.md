@@ -2,4 +2,4 @@
     - Phrommin
       - Got
 
-![mypic](gotji.jpg)
+![mypic](gotji.jpeg)
